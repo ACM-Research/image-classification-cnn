@@ -9,4 +9,4 @@ Optical Coherence Tomography is a Retinal imaging technique used to detect retin
 ## Online Demo
 (tbd)
 ## Poster
-[Link to Poster](https://github.com/ACM-Research/image-classification-cnn/blob/master/Poster.pdf)
+![Image of Research Poster](./Poster.pdf)
