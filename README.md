@@ -7,6 +7,11 @@ OCT is a retinal imaging technique which uses light waves and their reflections 
 
 ![OCT Image Example](./OCT_Image_Example.png)
 
+## Models
+Our models are constructed through Keras, a Python library used for deep learning. We experimented with different sets of layers and measured our model's effectiveness using accuracy, F1-score, and sparse categorical cross-entropy loss metrics. The models are compiled with their respective training sets to produce the required metrics.
+
+![Model Data](./Model_Data.png)
+
 ## Online Demo
 (tbd)
 
