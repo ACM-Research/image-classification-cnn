@@ -13,11 +13,9 @@ Our models are constructed through Keras, a Python library used for deep learnin
 ![Model Data](./Model_Data.png)
 
 ## Online Demo
-(tbd)
+Demo: https://colab.research.google.com/github/ACM-Research/image-classification-cnn/blob/master/demo/RetinalOCTDemo.ipynb
+Images to use: NORMAL.jpg, CNV.jpg, DRUSEN.jpg, DME.jpg
 
 ## Poster
 ![Image of Research Poster](./Poster.jpg)
 
-## Folder Structure
-- `week1` to `week3` contain example notebooks and exercises to get the group acquainted with the basics of ML.
-- `OCT-cnn` contains notebooks to train many different models, as well as the weights for the most successful one.
