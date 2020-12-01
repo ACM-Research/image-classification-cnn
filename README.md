@@ -14,6 +14,7 @@ Our models are constructed through Keras, a Python library used for deep learnin
 
 ## Online Demo
 Demo: https://colab.research.google.com/github/ACM-Research/image-classification-cnn/blob/master/demo/RetinalOCTDemo.ipynb
+
 Images to use: NORMAL.jpg, CNV.jpg, DRUSEN.jpg, DME.jpg
 
 ## Poster
