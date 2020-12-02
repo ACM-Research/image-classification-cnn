@@ -1,4 +1,8 @@
 # Convolutional Neural Network to Classify Retinal OCT Images (Fall 2020)
+
+## Poster
+![Image of Research Poster](./Poster.jpg)
+
 ## Objective
 Optical Coherence Tomography is a Retinal imaging technique used to detect retinal abnormalities. However, the analysis of such images to reach aretinal diagnosis serves to be a difficult and time-consuming task for medical professionals. This project aims to develop the most efficient convolutional neural network model to classify these OCT images. This CNN is then benchmarked against a fully-connected neural network model to demonstrate a CNN's performance in tasks that require spatial context.
 
@@ -17,6 +21,10 @@ Demo: https://colab.research.google.com/github/ACM-Research/image-classification
 
 Images to use: NORMAL.jpeg, CNV.jpeg, DRUSEN.jpeg, DME.jpeg
 
-## Poster
-![Image of Research Poster](./Poster.jpg)
-
+## Contributors
+- [Aaron Chang](https://github.com/Aephus)
+- [Alex Lo](https://github.com/loalex523)
+- [Anusha Saha](https://github.com/anushasaha16)
+- [Vivan Shah](https://github.com/AvengingPrime)
+- [Viswajith Rajagopalan](https://github.com/ViswajithRajagopalan)
+- [Aditya Rathod](https://github.com/adityarathod) - Research Lead
